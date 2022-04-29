@@ -2,7 +2,7 @@ package test;
 
 import java.util.*;
 /*
- * @author Felix, Sven und Ethan
+ * @author Felix Hansmann
  * @version Java 16
  * 
  * Die Klasse "Telefonliste" verwaltet Objekte der Klasse "TelefonEintrag". Diese koennen mit Hilfe der der "Telefonliste" hinzugefuegt werden,
